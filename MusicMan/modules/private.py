@@ -38,7 +38,7 @@ Saya Memiliki Banyak Fitur Praktis Seperti :
 ┣• Gunakan Perintah » /help « untuk Mengetahui Fitur Lengkap saya
 ┗━━━━━━━━━━━━━━
 ❃ Managed With 🦇 By [KYUD](https://t.me/boyfriendnice)
-❃ Thanks To Group [GROUP](https://t.me/KyudYamete)
+❃ Thanks To Group [GROUP](https://t.me/KyudYamate)
 ━━━━━━━━━━━━━━━
 Ingin Menambahkan Saya ke Grup Anda? Tambahkan Saya Ke Group Anda!
 </b>""",

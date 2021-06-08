@@ -37,8 +37,8 @@ Saya Memiliki Banyak Fitur Praktis Seperti :
 ┣• Mencari Lagu Yang ingin di Putar atau di Download.
 ┣• Gunakan Perintah » /help « untuk Mengetahui Fitur Lengkap saya
 ┗━━━━━━━━━━━━━━
-❃ Managed With 🦇 By [KYUD](https://t.me/boyfriendnice)
-❃ Thanks To Group [GROUP](https://t.me/KyudYamate)
+❃ Managed With 🦇 By [Ikyud](https://t.me/boyfriendnice)
+❃ Thanks To Group [Musik](https://t.me/VirtusSupportGroup)
 ━━━━━━━━━━━━━━━
 Ingin Menambahkan Saya ke Grup Anda? Tambahkan Saya Ke Group Anda!
 </b>""",
